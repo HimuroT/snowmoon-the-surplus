@@ -1,0 +1,45 @@
+THE SURPLUS — RECONSTRUCTED CREATIVE PRODUCTION BRIEF
+This summarizes the implemented direction; it is not a verbatim task log.
+Original 84-second unofficial Snowmoon Chapter 5 adaptation.
+Full assembly: 13 October 2026. English subtitles; no voiced dialogue.
+
+Source scene: Zei and Bai explore Freetown after arrival. Zei is precise and
+competitive; Bai’s teasing has both rivalry and affection. Preserve the
+ambiguity: her wish for time together is followed by his awkward reaction,
+not a reciprocal confession. The screenplay and incidental business are
+adaptation choices. See the supplied shotlist and SRT for all seventeen cues.
+
+Visual direction
+Use the approved original SVG characters and muted charcoal, paper, plum and
+amber palette. Keep a single inhabited street set, shop-window reflections,
+restrained late-afternoon light, clear inward eye lines and expressive faces.
+Avoid floating equations, game UI or infographic storytelling. Build comedy
+from the faces, the finger-counting explanation and the entirely earnest nod.
+Give the skyline a new original vector set and rear-view shoulder silhouette.
+
+Animation direction
+Maintain the refined 66–78s proof’s pauses, shoulder release, jointed gait,
+weight transfer, foot lift/contact shadows and opposite arm swing. Add scene-
+specific brows, gaze, mouth phrase groups, small leans and held reactions for
+the preceding shots. The first shot establishes the feet before faces.
+Show both characters in a full-body walk during the shared-break explanation;
+shift them clear of the two-line subtitles so contacts remain visible.
+Stop the camera before uninterrupted attention at 59s. Remove proof labels
+from the final sequence. End over the empty street with full attribution and
+source/license information, fading to dark at 84s.
+
+Sound direction
+Use only original procedural synthesis and already available local tools.
+Start with wind/street texture and uneven footfalls. Introduce two answering
+wood-like notes around 23s, overlap the motif around 49s, remove music at 70s,
+and resolve softly around 80s. Use a small distant rotor in the skyline shot,
+cloth during the shoulder release and distinct left/right shoes. Preserve
+the refined proof’s sound character. Retain separate 48kHz stereo stems.
+No copied samples, recordings, voice cloning, new authentication or paid tool.
+
+Format and review method
+Render exactly 84s at 1920×1080/24fps, with all prepared subtitle cues, a decoded
+representative still and complete reproducible source. Inspect source and
+rendered frames, check the entire encoded file and audio numerically, and
+state that realtime playback/listening has not been interactively verified.
+The final public source edition retains the reviewed picture and audio.

@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "Pillow": "12.3.0",
+  "Inkscape": "1.4 (e7c3feb100, 2024-10-09)",
+  "FFmpeg": "7.1.5-0+deb13u1",
+  "font": "DejaVu Sans, system installation; not bundled",
+  "render": "1920x1080, 24 fps, 2016 frames, 84 s",
+  "source_independence": "No dependency on prior proof folder, network assets, or services"
+}

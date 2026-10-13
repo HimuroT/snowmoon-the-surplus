@@ -1,0 +1,155 @@
+{
+  "title": "The Surplus",
+  "duration_seconds": 84,
+  "fps": 24,
+  "shots": [
+    {
+      "heading": "01  \u00b7  00\u201306",
+      "direction": "Low tracking shot. Two pairs of shoes cross alternating sunlight and shadow. Reflections enter a shop window before we see their faces. Uneven footsteps; distant rotor hum. Small location text: Freetown, United Cities."
+    },
+    {
+      "heading": "02  \u00b7  06\u201315",
+      "direction": "Waist-up travelling two-shot, Bai on the left. She leans into his eyeline while Zei keeps looking ahead. A window mullion briefly separates their reflections. First exchange."
+    },
+    {
+      "heading": "03  \u00b7  15\u201323",
+      "direction": "Zei in three-quarter profile. His hand counts off one point; Bai\u2019s reflection raises an eyebrow behind him. Hold her response a beat longer than he expects."
+    },
+    {
+      "heading": "04  \u00b7  23\u201333",
+      "direction": "Wide lateral track. The street opens into mismatched stone, concrete and glass. Zei explains their shared break. Their footfalls accidentally settle into the same rhythm."
+    },
+    {
+      "heading": "05  \u00b7  33\u201341",
+      "direction": "Bai\u2019s close-up, then a cut to Zei at \u201cefficient.\u201d Her small smile; his entirely earnest nod. No graphs or floating equations. The comedy lives in their faces."
+    },
+    {
+      "heading": "06  \u00b7  41\u201349",
+      "direction": "Over Zei\u2019s shoulder. He looks up at the unfamiliar skyline; one small copter passes. A distant grey-and-purple wall stays in the background. The camera eases upward with him."
+    },
+    {
+      "heading": "07  \u00b7  49\u201359",
+      "direction": "Reverse close-up: Bai has been watching him, not the skyline. Her expression softens. After \u201cWhat?\u201d, Zei glances upward again, caught. Allow quiet between the lines."
+    },
+    {
+      "heading": "08  \u00b7  59\u201367",
+      "direction": "Return to the two-shot. Zei finally looks directly at Bai when he asks his question. Stop the lateral camera movement. Their first uninterrupted moment of attention."
+    },
+    {
+      "heading": "09  \u00b7  67\u201374",
+      "direction": "Matching close-ups. Zei asks about the match. Bai answers without a grin, holding eye contact. At 70 seconds the music drops away; let the admission stay small."
+    },
+    {
+      "heading": "10  \u00b7  74\u201378",
+      "direction": "Zei\u2019s shoulders sink in a silent groan. Bai\u2019s teasing half-smile returns. They resume walking; their reflections slip together out of the window frame. No kiss or reciprocal confession."
+    },
+    {
+      "heading": "11  \u00b7  78\u201384",
+      "direction": "Clean end card over the empty street: The Surplus / An unofficial Snowmoon adaptation / Vitalik Buterin \u00b7 Chapter 5 \u00b7 GPLv3. One soft musical resolution; fade at 84 seconds."
+    }
+  ],
+  "cues": [
+    {
+      "start": 6,
+      "end": 10,
+      "speaker": "Bai",
+      "subtitle": "You came all this way\nto keep an eye on me?"
+    },
+    {
+      "start": 10.5,
+      "end": 14.5,
+      "speaker": "Zei",
+      "subtitle": "We\u2019re the two finalists."
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "speaker": "Zei",
+      "subtitle": "If I stop practising,\nyou get ahead."
+    },
+    {
+      "start": 20.5,
+      "end": 23,
+      "speaker": "Bai",
+      "subtitle": "So this is surveillance."
+    },
+    {
+      "start": 23.5,
+      "end": 29,
+      "speaker": "Zei",
+      "subtitle": "If we stop together,\nneither of us falls behind."
+    },
+    {
+      "start": 29.5,
+      "end": 32.5,
+      "speaker": "Zei",
+      "subtitle": "We both get a break."
+    },
+    {
+      "start": 33,
+      "end": 37,
+      "speaker": "Bai",
+      "subtitle": "You make a holiday\nsound exhausting."
+    },
+    {
+      "start": 38,
+      "end": 41,
+      "speaker": "Zei",
+      "subtitle": "It\u2019s efficient."
+    },
+    {
+      "start": 41.5,
+      "end": 45,
+      "speaker": "Zei",
+      "subtitle": "Mom\u2019s never left Dzego."
+    },
+    {
+      "start": 45.5,
+      "end": 48.5,
+      "speaker": "Zei",
+      "subtitle": "Neither have I."
+    },
+    {
+      "start": 50,
+      "end": 52,
+      "speaker": "Bai",
+      "subtitle": "I know."
+    },
+    {
+      "start": 53,
+      "end": 54.5,
+      "speaker": "Zei",
+      "subtitle": "What?"
+    },
+    {
+      "start": 55,
+      "end": 58,
+      "speaker": "Bai",
+      "subtitle": "You keep looking up."
+    },
+    {
+      "start": 59,
+      "end": 62,
+      "speaker": "Zei",
+      "subtitle": "Then why bring me?"
+    },
+    {
+      "start": 63,
+      "end": 66,
+      "speaker": "Bai",
+      "subtitle": "I wanted the same thing."
+    },
+    {
+      "start": 67,
+      "end": 69,
+      "speaker": "Zei",
+      "subtitle": "A fair match?"
+    },
+    {
+      "start": 70,
+      "end": 74,
+      "speaker": "Bai",
+      "subtitle": "Some time with you."
+    }
+  ]
+}

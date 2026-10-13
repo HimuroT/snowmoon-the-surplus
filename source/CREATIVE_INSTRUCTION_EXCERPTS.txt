@@ -1,0 +1,31 @@
+SELECTED CREATIVE INSTRUCTION EXCERPTS
+The Surplus, 13 October 2026
+
+These are selected, creative-only excerpts of task text used during production.
+They are not a complete or verbatim session transcript. The reconstructed
+production brief is supplied separately as production_brief.txt. The full
+geometry, scene logic, timing and synthesis are expressed in executable code.
+No private conversation, account data or operational instructions are included.
+
+Full-film visual direction (original Japanese wording):
+“既存の12秒版の表情・歩行・間と品質を維持し、storyboard/shotlist/SRT を参照して全体をつないでください。”
+
+English translation:
+Maintain the expression, walking, pauses and quality of the existing 12-second
+version, and connect the full film using the storyboard, shot list and SRT.
+
+Original sound direction (selected English excerpts):
+“Natural restrained sound, no annoying constant electrical hum.”
+“No voice or sounds resembling spoken audio.”
+“Produce 48 kHz stereo 12.000-second WAV mix plus separate ambience/effects/music stems”
+
+Full-film sound direction (selected English excerpts):
+“Deliver 48kHz stereo 84.000s mix and ambience/effects/music stems, deterministic source, audio report with peak and frame counts.”
+“Preserve refined proof 66–78 performance/sound texture as closely as useful, avoid click/edit discontinuities.”
+“Match stereo positions Bai left, Zei right; vary noise strength naturally.”
+
+These excerpts describe creative targets. Exact implemented contact times,
+phrasing, frame counts and sound cues are authoritative in shotlist.json,
+animate_film.py, character_rig.py, synthesize_audio.py and their output reports.
+The supplied pipeline generates original vector geometry and procedural audio;
+it does not invoke a remote image/video model or a voice-generation service.
