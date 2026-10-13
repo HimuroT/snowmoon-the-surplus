@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#14151b">
+<title>The Surplus — A Snowmoon Short Film</title>
+<meta name="description" content="An 84-second unofficial animated adaptation of Snowmoon, Chapter 5, by Vitalik Buterin. Watch the film and download the GPLv3 production source.">
+<link rel="canonical" href="https://himurot.github.io/snowmoon-the-surplus/">
+<meta property="og:title" content="The Surplus — A Snowmoon Short Film">
+<meta property="og:description" content="A shared break. An unexpected answer. An 84-second animated short, with the full GPLv3 production source.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://himurot.github.io/snowmoon-the-surplus/">
+<meta property="og:image" content="https://himurot.github.io/snowmoon-the-surplus/assets/The_Surplus_still.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#film">Skip to film</a>
+<header class="site-header wrap">
+<a class="wordmark" href="#top" aria-label="The Surplus, back to top"><span class="moon" aria-hidden="true"></span> SNOWMOON <span class="separator">/</span> CHAPTER 05</a>
+<nav aria-label="Main navigation"><a href="#film">Watch</a><a href="#source">Source &amp; sound <span aria-hidden="true">↗</span></a></nav>
+</header>
+<main id="top">
+<section class="hero wrap" aria-labelledby="title">
+<div class="eyebrow">AN UNOFFICIAL ANIMATED SHORT <span>2026</span></div>
+<div class="hero-heading"><h1 id="title">The <em>Surplus.</em></h1><div class="hero-aside"><span class="small-label">FREETOWN, UNITED CITIES</span><p>A shared break.<br>An unexpected answer.</p></div></div>
+<div class="film-meta"><span>01:24</span><span>Original vector animation</span><span>English captions</span><span>GPLv3</span></div>
+</section>
+<section id="film" class="film-section wrap" aria-label="Watch The Surplus">
+<div class="player-frame">
+<video controls playsinline preload="metadata" poster="assets/The_Surplus_still.png" width="1920" height="1080" aria-label="The Surplus, an 84-second animated film with English captions and music. No voiced dialogue.">
+<source src="assets/The_Surplus_84s.mp4" type="video/mp4">
+Your browser cannot play this video. <a href="assets/The_Surplus_84s.mp4">Download the film instead.</a>
+</video>
+</div>
+<div class="player-caption"><p>84 seconds · 1920 × 1080 · 24 fps<br><span>English captions are included in the image. Music and sound; no voiced dialogue.</span></p><a class="text-link" href="assets/The_Surplus_84s.mp4" download>Download film <span aria-hidden="true">↓</span><small>MP4 · 13.7 MB</small></a></div>
+</section>
+<section class="story wrap" aria-labelledby="story-title">
+<div class="section-kicker"><span>01</span> THE MOMENT</div>
+<div class="story-content"><h2 id="story-title">Some things don’t<br>fit the calculation.</h2><div><p>Two rivals walk through Freetown. Zei has a perfectly rational explanation for taking a break together. Bai has a simpler one.</p><p class="muted">An adaptation of a scene from Chapter 5 of <a href="https://vitalik.eth.limo/snowmoon/html/chapter-5.html">Snowmoon by Vitalik Buterin</a>, told through original vector animation, English captions and procedural sound.</p></div></div>
+</section>
+<section id="source" class="source-section" aria-labelledby="source-title"><div class="wrap">
+<div class="section-kicker"><span>02</span> OPEN PRODUCTION</div>
+<div class="section-heading"><div><h2 id="source-title">Take it apart.<br>Make it your own.</h2><p>The film and task-specific production materials are released under GNU GPL version 3.</p></div><a class="outline-link" href="downloads/COPYING.txt">Read the license <span aria-hidden="true">↗</span></a></div>
+<p class="download-intro">Start with the source archive. It contains everything needed to regenerate the visuals and audio with the documented local tools. The three audio archives are optional, full-length exports.</p>
+<div class="download-list">
+<a class="download-row" href="downloads/The_Surplus_84s_source_core.zip" download><span class="download-index">01</span><span class="download-info"><strong>Production source</strong><span>Editable code · 2,016 SVG frames · shot list · captions · creative directions · GPLv3</span></span><span class="download-size">12.4 MB · ZIP</span><span class="download-arrow" aria-hidden="true">↓</span></a>
+<a class="download-row" href="downloads/The_Surplus_84s_audio_mix.zip" download><span class="download-index">02</span><span class="download-info"><strong>Full audio mix</strong><span>84 seconds · stereo · 48 kHz · 24-bit FLAC</span></span><span class="download-size">10.6 MB · ZIP</span><span class="download-arrow" aria-hidden="true">↓</span></a>
+<a class="download-row" href="downloads/The_Surplus_84s_audio_ambience.zip" download><span class="download-index">03</span><span class="download-info"><strong>Ambience stem</strong><span>Street atmosphere · wind · distant rotor</span></span><span class="download-size">10.5 MB · ZIP</span><span class="download-arrow" aria-hidden="true">↓</span></a>
+<a class="download-row" href="downloads/The_Surplus_84s_audio_effects_music.zip" download><span class="download-index">04</span><span class="download-info"><strong>Effects &amp; music stems</strong><span>Footsteps · cloth · sparse procedural score</span></span><span class="download-size">3.7 MB · ZIP</span><span class="download-arrow" aria-hidden="true">↓</span></a>
+</div>
+<p class="archive-note">Four independent ZIPs. No multipart joining required. Extract into one parent folder to combine them. <a href="downloads/SHA256SUMS.txt">Verify download checksums ↗</a></p>
+<div class="process-grid"><div><span class="small-label">THE PIPELINE</span><h3>From paths to a small story.</h3><p>Python defines the character rigs, poses, timing and SVG frames. Inkscape renders the images. NumPy and SciPy generate the sound from fixed seeds; FFmpeg assembles the film.</p></div><div><span class="small-label">REBUILD LOCALLY</span><h3>No generation service required.</h3><p>Install Python, NumPy, SciPy, Pillow, Inkscape, FFmpeg and DejaVu Sans, then follow the included workflow. Allow several gigabytes for intermediate frames.</p><pre><code>bash source/render_film.sh</code></pre><a class="text-link" href="downloads/WORKFLOW.txt">Read the production workflow ↗</a></div></div>
+<details class="production-notes"><summary>Production notes &amp; verification</summary><div><p>Created with OpenAI assistance. The source includes original geometry, animation logic, procedural audio synthesis, selected creative instruction excerpts and a reconstructed production brief. The excerpts are not a complete session transcript.</p><p>The 84-second file contains 2,016 frames and stereo 48 kHz AAC audio. Full-file decoding, frame sources and caption boundaries were checked. Realtime synchronized playback and perceptual listening have not been interactively verified. Measured integrated loudness is approximately −31 LUFS, so audibility will vary with the listening setup.</p><p>The FLAC downloads losslessly encode a 24-bit conversion of the float32 audio masters. Exact float32 masters can be regenerated from the source. The measured conversion difference and tested tool versions are included.</p><p>The public MP4 uses the original audiovisual streams; only the container title/comment were updated for release. Original source fonts and commodity tools are not bundled or relicensed.</p><a href="downloads/README.txt">Full README ↗</a></div></details>
+</div></section>
+<section class="extras wrap" aria-labelledby="extras-title"><div class="section-kicker"><span>03</span> REFERENCE MATERIAL</div><div class="extras-heading"><h2 id="extras-title">A closer look.</h2><div class="extras-links"><a href="assets/The_Surplus_still.png" download>Film still ↓</a><a href="assets/The_Surplus_contact_sheet.jpg" download>Shot contact sheet ↓</a><a href="downloads/the-surplus.en.srt" download>English captions ↓</a></div></div><a href="assets/The_Surplus_contact_sheet.jpg" aria-label="Open the full-resolution shot contact sheet"><img class="contact-sheet" src="assets/The_Surplus_contact_sheet.jpg" alt="A contact sheet showing the eleven shots of The Surplus, including Freetown street views, Bai and Zei in conversation, close-ups and the end card." loading="lazy" width="1440" height="2016"></a></section>
+<footer class="wrap"><div class="footer-title">The Surplus<span>A SNOWMOON SHORT FILM</span></div><div><p>Adapted from <a href="https://vitalik.eth.limo/snowmoon/html/chapter-5.html">Snowmoon, Chapter 5</a> by Vitalik Buterin.<br>Unofficial adaptation. No endorsement is implied.</p><p>Dialogue, staging, original drawings, animation and sound modified for this short. Production materials created with OpenAI assistance. Modifications dated 13 October 2026.</p><div class="footer-links"><a href="https://vitalik.eth.limo/snowmoon/">Author’s license notice ↗</a><a href="downloads/CREDITS.txt">Credits ↗</a><a href="downloads/COPYING.txt">GNU GPLv3 ↗</a></div></div></footer>
+</main>
+</body>
+</html>

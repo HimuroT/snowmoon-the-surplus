@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+frames/
+audio/*.wav
+review/decoded_mix_for_qa.wav

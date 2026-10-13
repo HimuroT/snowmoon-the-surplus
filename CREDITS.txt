@@ -1,0 +1,22 @@
+THE SURPLUS
+
+Adapted from Snowmoon, Chapter 5, by Vitalik Buterin.
+Unofficial adaptation. No endorsement by the source author is implied.
+
+Dialogue, staging, character designs, animation and sound modified for this
+short. Original production materials created with OpenAI assistance.
+Modifications dated 13 October 2026.
+
+Licensed under GNU General Public License version 3.
+Corresponding task-specific production source is supplied alongside the film.
+Full license and warranty disclaimer: source/COPYING.
+
+Original chapter:
+https://vitalik.eth.limo/snowmoon/html/chapter-5.html
+Author's license notice:
+https://vitalik.eth.limo/snowmoon/
+GPL version 3:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+English captions. Original procedural music and sound. No voiced dialogue.
+Commodity tools and the system font are not bundled or relicensed.
